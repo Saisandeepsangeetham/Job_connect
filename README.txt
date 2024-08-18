@@ -1,4 +1,4 @@
-####################################################      JOB CONNECT        ########################################################
+#################################      JOB CONNECT        #################################
 
 JobConnect is job seeking platform used by seekers as well as Talent Acqusition Managers of a Company to recruit deserving seekers
 
